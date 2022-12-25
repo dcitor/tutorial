@@ -5,9 +5,15 @@ katex: true
 markup: "mmark"
 ---
 
+[https://oj.vnoi.info/problem/fc142_knight](https://oj.vnoi.info/problem/fc142_knight)
+
 ## Vấn đề
 
-[https://oj.vnoi.info/problem/fc142_knight](https://oj.vnoi.info/problem/fc142_knight)
+<object data="https://vnoi-admin.github.io/statements/FC/FC142/knight.pdf" type="application/pdf" width="100%" height="700px">
+    <embed src="https://vnoi-admin.github.io/statements/FC/FC142/knight.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://vnoi-admin.github.io/statements/FC/FC142/knight.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## Hướng dẫn
 
