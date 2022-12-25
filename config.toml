@@ -1,4 +1,4 @@
-baseURL = 'http://susanop.github.io/'
+baseURL = 'https://susanop.github.io/'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = 'Tutorial Code'
