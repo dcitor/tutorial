@@ -1,4 +1,29 @@
 baseURL = 'http://susanop.github.io/'
 languageCode = 'en-us'
-title = 'Susanop'
-theme = 'relearn'
+DefaultContentLanguage = "en"
+title = 'Tutorial Code'
+theme = 'docdock'
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+editURL = "https://github.com/vjeantet/hugo-theme-docdock/edit/master/exampleSite/content/"
+showVisitedLinks = true # default is false
+themeStyle = "flex" # "original" or "flex" # default "flex"
+themeVariant = "gray" # choose theme variant "green", "gold" , "gray", "blue" (default)
+ordersectionsby = "weight" # ordersectionsby = "title"
+disableHomeIcon = false # default is false
+disableSearch = false # default is false
+disableNavChevron = true # set true to hide next/prev chevron, default is false
+highlightClientSide = false # set true to use highlight.pack.js instead of the default hugo chroma highlighter
+menushortcutsnewtab = false # set true to open shortcuts links to a new tab/window
+enableGitInfo = true
+
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
