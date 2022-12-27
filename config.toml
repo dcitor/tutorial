@@ -1,7 +1,7 @@
-baseURL = 'https://susanop.github.io/'
+baseURL = 'https://dcitor.github.io/tutorial/'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
-title = 'Tutorial Code'
+title = 'DCIT Tutorial'
 theme = 'docdock'
 
 pygmentsCodeFences = true
@@ -32,5 +32,5 @@ home = [ "HTML", "RSS", "JSON"]
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> <span>Github repo</span>"
 identifier = "ds"
-url = "https://github.com/susanop/susanop.github.io"
+url = "https://github.com/dcitor/tutorial"
 weight = 10
